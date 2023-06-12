@@ -7,4 +7,9 @@ Please clone this repo into your account and send commits or branches with your 
 Please refactor the function `getUsersBadge()`. You can provide multiple version. Please describe in the commit messages
 what has improved in your version.
 
-Please check branch task-2 for the next assignment.
+## Task II
+
+Please make the function `getUsersBadge` async.
+
+Please check branch task-3 for the next assignment.
+
