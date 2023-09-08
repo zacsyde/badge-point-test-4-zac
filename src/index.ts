@@ -16,3 +16,9 @@ export const getUsersBadge = ( user: User ): Icon | null => {
   }
   return badge;
 };
+
+function calculateUsersStatistics() {
+  // todo
+}
+
+calculateUsersStatistics();
