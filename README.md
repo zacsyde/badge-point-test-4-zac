@@ -1,8 +1,9 @@
 # points-badge-test
 
-Please clone this repo into your account and send commits or branches with your results to [Simon](mailto:s.hansen@digital-h.de).
+Please clone this repo into your account and send commits or branches with your results
+to [Simon](mailto:s.hansen@digital-h.de).
 
-## Task I 
+## Task I
 
 Please refactor the function `getUsersBadge()`. You can provide multiple version. Please describe in the commit messages
 what has improved in your version.
@@ -34,6 +35,5 @@ It would be extra nice to have some statistics afterwards in the console like
 3. who are the top 5 user
 4. what is the most given badge
 
-
-
-Thank you for your time! 
+Please check branch task-5 for the next assignment and merge your changes from this branch. The next assignments should
+build on top of your improvements.
