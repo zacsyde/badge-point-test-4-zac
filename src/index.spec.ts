@@ -34,6 +34,6 @@ function getUserMock(count: number): User {
   return {
     id: '___',
     username: '___',
-    solution_count: count
+    solutionCount: count
   };
 }
