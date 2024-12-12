@@ -55,7 +55,4 @@ build on top of your improvements.
 The `emulateLongProcess` function seems to crash with too much traffic. Does that impact the rest of your code? 
 Please try to improve, to prevent failure.
 
-That's the End. We build a massive, happy customer base.
-Please take one more moment to check your code, if this is a clean and solid version, that you are happy with.
-
-Thank you for your time. 
+Please check branch task-7 for the next assignment and merge your changes from this branch. The next assignments should build on top of your improvements.
