@@ -56,3 +56,12 @@ The `emulateLongProcess` function seems to crash with too much traffic. Does tha
 Please try to improve, to prevent failure.
 
 Please check branch task-7 for the next assignment and merge your changes from this branch. The next assignments should build on top of your improvements.
+
+## Task VII
+
+Please create a Docker Image that runs the code inside this repo. The image should be easy to build and run for everyone, so please add npm scripts to build the image and start the container.
+
+That's the End. We build a massive, happy customer base.
+Please take one more moment to check your code, if this is a clean and solid version, that you are happy with.
+
+Thank you for your time. 
