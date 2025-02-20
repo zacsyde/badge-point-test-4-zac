@@ -12,6 +12,9 @@ what has improved in your version.
 
 Please make the function `getUsersBadge` async.
 
+Please check branch task-3 for the next assignment and merge your changes from this branch. The next assignments should
+build on top of your improvements.
+
 ## Task III
 
 There are new Badges! Please implement the following Badges:
