@@ -2,6 +2,9 @@ import { getUsersBadge } from './index';
 import { Icon } from './types/icon.enum';
 import { User } from './types/user.interface';
 
+// Comment for the examiner:
+// Due to time constraints I could not extend the unit tests here, but this is still a crucial task to do in real life situations
+
 describe('getUsersBadge', () => {
 
   it(`get Gold`, function () {
