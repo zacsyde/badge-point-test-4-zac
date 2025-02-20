@@ -1,4 +1,4 @@
-import { getRandomInt } from './user-store';
+import { getRandomInt } from './user-store.js';
 
 let stackCount = 0;
 const stackLimit = 20;

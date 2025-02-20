@@ -1,25 +1,19 @@
 {
   "compilerOptions": {
+    "module": "ESNext",
     "target": "ES2015",
-    "lib": ["ES2015", "DOM"],
-    "moduleResolution": "node",
+    "outDir": "./dist",
+    "rootDir": "./src",
     "esModuleInterop": true,
-    "module": "ES6",
-    "allowSyntheticDefaultImports": true,
-    "strict": true,
-    "noImplicitAny": true,
-    "noImplicitThis": true,
-    "strictNullChecks": true,
-    "strictFunctionTypes": true,
-    "strictBindCallApply": true,
-    "strictPropertyInitialization": true,
-    "strictBuiltinIteratorReturn": true,
-    "alwaysStrict": true,
-    "useUnknownInCatchVariables": true,
-    "skipLibCheck": true,
-    "downlevelIteration": true,
     "resolveJsonModule": true,
-    "isolatedModules": true
+    "strict": true,
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "skipLibCheck": true,
+    "noEmitOnError": true,
+    "allowJs": true,
+    "preserveConstEnums": true,
+    "sourceMap": true
   },
   "include": [
     "src/**/*"
