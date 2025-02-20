@@ -67,3 +67,7 @@ That's the End. We build a massive, happy customer base.
 Please take one more moment to check your code, if this is a clean and solid version, that you are happy with.
 
 Thank you for your time. 
+
+### Docker run command:
+`npm run docker:start
+`
